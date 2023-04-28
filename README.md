@@ -44,16 +44,13 @@
 <td width="50%">
 <h3 align="center">Proyecto Final BD</h3>
 <div align="center">
-<a href=""https://github.com/Xeppyz/SistemaControlEyS.git" target="_blank"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Sistema de Control de Salida y Entrada"></a>
+<a href=""https://github.com/Xeppyz/SistemaControlEyS.git" target="_blank"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Proyecto Final BD"></a>
 <p>
 <a href="https://github.com/Xeppyz/SistemaControlEyS.git" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Proyecto final de la asignatura Diseño de Base de datos, en el cual se utiliza como IDE Visual studio con el lenguaje de programacion visual basi. Así mismo, consiste en un registro de las entradas y salidas de los trabajadores de una empresa.</p>
 </div>
                                                                                       
 </td>
