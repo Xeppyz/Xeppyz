@@ -29,7 +29,7 @@
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.facebook.com/allanalexander.silvacampos.9">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+			<img src="https://img.icons8.com/doodle/40/000000/facebook--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/xeppyz/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/xeppyz">
