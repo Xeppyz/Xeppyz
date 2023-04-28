@@ -38,13 +38,13 @@
 
 </p>
 
-## Proyectos *bombitas*
+## Proyectos *Finales*
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Proyecto Final BD</h3>
 <div align="center">
-<a href=""https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href=""https://github.com/Xeppyz/SistemaControlEyS.git" target="_blank"><img src="https://www.bing.com/images/create/a-panel-that-records-the-input-and-output-pixels/644b403ae8e74343bd0c711a50d855bc?id=o9tFuNJ53OtjOD%2bTCbHj8A%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay" width="400" alt="Sistema de Control de Salida y Entrada"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
