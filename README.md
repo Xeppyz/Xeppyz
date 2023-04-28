@@ -50,7 +50,7 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Proyecto final de la asignatura Diseño de Base de datos, en el cual se utiliza como IDE Visual studio con el lenguaje de programacion visual basi. Así mismo, consiste en un registro de las entradas y salidas de los trabajadores de una empresa.</p>
+<p>Proyecto final de la asignatura Diseño de Base de datos, en el cual se utiliza como IDE Visual studio con el lenguaje de programacion visual basic. Así mismo, consiste en un registro de las entradas y salidas de los trabajadores de una empresa.</p>
 </div>
                                                                                       
 </td>
@@ -66,7 +66,7 @@
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p>Proyecto dedicado para la asignatura desarrollo de aplicaicones movil 1, una app que ayuda a los universitarios a encontrar apartamentos de una manera más rápida y sencilla. Así también, para poder publicar algun apartamento que rentas. Esta app fue desarrollado en colaboración con mis compañeros Marcelo Soto y Roberto Amador.</p>
+</p>Proyecto dedicado para la asignatura desarrollo de aplicaciones movil 1, una app que ayuda a los universitarios a encontrar apartamentos de una manera más rápida y sencilla. Así también, para poder publicar algun apartamento que rentas. Esta app fue desarrollado en colaboración con mis compañeros Marcelo Soto y Roberto Amador.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
