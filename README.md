@@ -59,7 +59,7 @@
                <br>
 <h3 align="center">Arquitectura MVVM</h3>
 <div align="center">                                       
-<a href="https://github.com/Xeppyz/Neo-tech-DAMO1.git" target="_blank"><img src="_007964f2-84b9-4527-82fc-9a6cac319ee8.jpg" width="400" alt="Proyecto Final Android"></a>
+<a href="https://github.com/Xeppyz/Neo-tech-DAMO1.git" target="_blank"><img src="https://th.bing.com/th/id/OIG.aN0qjeafjcHdtbr.a2TG?pid=ImgGn" width="400" alt="Proyecto Final Android"></a>
 <br>
 <p>
 <a href="https://github.com/Xeppyz/Neo-tech-DAMO1.git" target="_blank">
