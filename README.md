@@ -57,7 +57,7 @@
 
 <td width="50%">
                <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center">Proyecto Final Desarrollo movil 1</h3>
 <div align="center">                                       
 <a href="https://github.com/Xeppyz/Neo-tech-DAMO1.git" target="_blank"><img src="https://th.bing.com/th/id/OIG.aN0qjeafjcHdtbr.a2TG?pid=ImgGn" width="400" alt="Proyecto Final Android"></a>
 <br>
@@ -66,7 +66,7 @@
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>Proyecto dedicado para la asignatura desarrollo de aplicaicones movil 1, una app que ayuda a los universitarios a encontrar apartamentos de una manera más rápida y sencilla. Así también, para poder publicar algun apartamento que rentas. Esta app fue desarrollado en colaboración con mis compañeros Marcelo Soto y Roberto Amador.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
