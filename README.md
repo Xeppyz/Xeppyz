@@ -15,11 +15,11 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Cursando mi tercer año de carrera en la Universidad Centroamericana UCA
+- Jugando Valorant en los tiempos libres 🐢
+- Portafolio en proceso... 👷🚧
+- Personal website...
+- Estoy listo para cualquier tipo de oportunidad y adaptarme a mi trabajo 🧑‍🍳
 
 <br><br>
 
