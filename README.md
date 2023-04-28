@@ -46,7 +46,7 @@
 <div align="center">
 <a href=""https://github.com/Xeppyz/SistemaControlEyS.git" target="_blank"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Sistema de Control de Salida y Entrada"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<a href="https://github.com/Xeppyz/SistemaControlEyS.git" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://youtu.be/vJapzH_46a8" target="_blank">
