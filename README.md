@@ -41,6 +41,7 @@
 <a href="https://dotnet.microsoft.com/languages/csharp" target="_blank">
     <img style="margin: 10px" src="https://www.cdnlogo.com/logos/c/68/c-sharp-800x800.png" alt="C#" height="50" />
 </a>
+<img src="   https://cdn-icons-png.flaticon.com/512/6132/6132221.png " width="256" height="256" alt="" title="" class="img-small">
 
 
 
