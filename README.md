@@ -7,7 +7,7 @@
 
 <br>
 
-## <picture><img src="https://i.pinimg.com/originals/27/de/41/27de41b89efe997ca5b7f689ceb22986.gif" width="100px"></picture> **About Me**
+## <picture><img src="https://i.pinimg.com/originals/27/de/41/27de41b89efe997ca5b7f689ceb22986.gif" width="200px"></picture> **About Me**
 
 
 <br>
