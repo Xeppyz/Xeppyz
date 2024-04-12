@@ -80,7 +80,7 @@
 <br>
 <h3 align="center">Final Mobile Development 1 Project</h3>
 <div align="center">
-<a href="https://github.com/Xeppyz/Neo-tech-DAMO1.git" target="_blank"><img src="https://th.bing.com/th/id/OIG.aN0qjeafjcHdtbr.a2TG?pid=ImgGn" width="400" alt="Final Android Project"></a>
+<a href="https://github.com/Xeppyz/Neo-tech-DAMO1.git" target="_blank"><img src="https://i.pinimg.com/originals/70/37/d4/7037d478852af21357f038fac2d2e9f6.gif" width="400" alt="Final Android Project"></a>
 <br>
 <p>
 <a href="https://github.com/Xeppyz/Neo-tech-DAMO1.git" target="_blank">
