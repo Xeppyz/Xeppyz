@@ -38,8 +38,7 @@
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="/wiki/File:C_Sharp_Logo_2023.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/128px-C_Sharp_Logo_2023.svg.png" decoding="async" width="128" height="128" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/192px-C_Sharp_Logo_2023.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/256px-C_Sharp_Logo_2023.svg.png 2x" data-file-width="512" data-file-height="512"></a>
-
+<a href="/wiki/File:C_Sharp_Logo_2023.svg" class="mw-file-description"><img src="https://github.com/dotnet/vscode-csharp/blob/main/images/csharpIcon.png" decoding="async" width="128" height="128" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/192px-C_Sharp_Logo_2023.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/256px-C_Sharp_Logo_2023.svg.png 2x" data-file-width="512" data-file-height="512"></a>
 
 
 
