@@ -32,7 +32,10 @@ Contribute to open source projects and share my knowledge with the community.
 🛠️ Technologies Used: <img align="center" width="200px" src="https://skillicons.dev/icons?i=vscode,figma,postman,ai"/>
 
 Databases: 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,sequelize,laravel,spring,firebase,myql,fastapi,cs,swagger)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,sequelize,laravel,spring,firebase,myql,fastapi,cs)](https://skillicons.dev)
+
+
+
 Programming Languages and Frameworks: -**Frameworks y librerías**: <img align="center" width="200px" src="https://skillicons.dev/icons?i=angular,vue,tailwind,bootstrap, flutter, php, cs, js, angular, laravel,ts, flutter, dart"/>
 
 
