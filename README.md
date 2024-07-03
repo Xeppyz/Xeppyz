@@ -14,38 +14,38 @@
 
 <br>
 
-- Currently in my third year of study at the Central American University UCA.
-- Playing Valorant in my free time 🐢.
-- Portfolio in progress... 👷🚧.
-- Personal website...
-- Ready for any kind of opportunity and to adapt to my work 🧑‍🍳.
+
+I am currently in my fourth year of university, studying Systems Engineering. I work at Invercasa/Casavision as a Junior Programmer Analyst.
+
+Learn more about me:
+
+🚀 Skills
+Development of interactive and responsive interfaces using modern technologies.
+Practical knowledge of using Node.js and Express, as well as PHP, for creating robust and scalable applications.
+Ability to transform ideas into attractive and functional visual designs using tools like Figma and Illustrator.
+
+🎯 Goals
+Create web applications that are not only functional but also visually appealing and easy to use.
+Continue learning and exploring new technologies and methodologies in the field of web development.
+Contribute to open source projects and share my knowledge with the community.
+
+🛠️ Technologies Used: <img align="center" width="60px" src="https://skillicons.dev/icons?i=vscode,figma,postman,ai, androidstudio, bootstrap, dotnet, fastapi, github, git"/>
+
+Databases: <img align="center" width="105px" src="https://skillicons.dev/icons?i=nodejs,express,sequelize,laravel,spring,firebase,mysql, sql, sqlserver"/>
+
+Programming Languages and Frameworks: -**Frameworks y librerías**: <img align="center" width="60px" src="https://skillicons.dev/icons?i=angular,vue,tailwind,bootstrap, flutter, php, cs, js, angular, laravel,ts"/>
+
+
+Interests
+UI/UX design
+Continuous improvement and constant learning
+Innovation in web design
 
 <br><br>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<h2>🔧 Technologies and Tools</h2>
-<div align="center">  
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a> 
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
 
-  <h2>🔧 Skills</h2>
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
- <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
- <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-
-
-
-</td><td valign="top" width="33%">
 
 <p align="center">
 
