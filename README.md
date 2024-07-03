@@ -31,7 +31,7 @@ Contribute to open source projects and share my knowledge with the community.
 
 🛠️ Technologies Used: <img align="center" width="200px" src="https://skillicons.dev/icons?i=vscode,figma,postman,ai"/>
 
-Databases: <img align="center" width="105px" src="https://skillicons.dev/icons?i=git"/>
+Databases: <img align="center" width="50px" height="50px" src="https://skillicons.dev/icons?i=git"/>
 
 Programming Languages and Frameworks: -**Frameworks y librerías**: <img align="center" width="200px" src="https://skillicons.dev/icons?i=angular,vue,tailwind,bootstrap, flutter, php, cs, js, angular, laravel,ts, flutter, dart"/>
 
