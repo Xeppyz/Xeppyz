@@ -29,9 +29,9 @@ Create web applications that are not only functional but also visually appealing
 Continue learning and exploring new technologies and methodologies in the field of web development.
 Contribute to open source projects and share my knowledge with the community.
 
-🛠️ Technologies Used: <img align="center" width="200px" src="https://skillicons.dev/icons?i=vscode,figma,postman,ai, androidstudio, bootstrap, dotnet, fastapi, git"/>
+🛠️ Technologies Used: <img align="center" width="200px" src="https://skillicons.dev/icons?i=vscode,figma,postman,ai"/>
 
-Databases: <img align="center" width="200px" src="https://skillicons.dev/icons?i=nodejs,express,sequelize,laravel,spring,firebase,mysql"/>
+Databases: <img align="center" width="200px" src="https://skillicons.dev/icons?i=nodejs,express,sequelize,laravel,spring,firebase,mysql, androidstudio, bootstrap, dotnet, fastapi, git"/>
 
 Programming Languages and Frameworks: -**Frameworks y librerías**: <img align="center" width="200px" src="https://skillicons.dev/icons?i=angular,vue,tailwind,bootstrap, flutter, php, cs, js, angular, laravel,ts, flutter, dart"/>
 
